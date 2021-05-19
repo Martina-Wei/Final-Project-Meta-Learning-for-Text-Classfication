@@ -8,3 +8,4 @@ In this project we have two different group of dataset
 > The reptile applied to these datasets refered to [here](https://github.com/Martina-Wei/Final-Project-Meta-Learning-for-Text-Classfication/blob/main/reptile_on_text.ipynb)
 
 **Group B**: Reptile algorithm on News Group 20 Dataset, All utilities are included in the jupyter notebook file.
+> The code is [here](https://github.com/Martina-Wei/Final-Project-Meta-Learning-for-Text-Classfication/blob/main/reptile_NewsGroup20.ipynb)
