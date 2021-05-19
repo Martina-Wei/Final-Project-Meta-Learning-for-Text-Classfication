@@ -6,3 +6,5 @@ In this project we have two different group of dataset
 > You can find the data preprocess and explore [here](https://github.com/Martina-Wei/Final-Project-Meta-Learning-for-Text-Classfication/blob/main/data_exploration.ipynb)
 
 > The reptile applied to these datasets refered to [here](https://github.com/Martina-Wei/Final-Project-Meta-Learning-for-Text-Classfication/blob/main/reptile_on_text.ipynb)
+
+**Group B**: Reptile algorithm on News Group 20 Dataset, All utilities are included in the jupyter notebook file.
